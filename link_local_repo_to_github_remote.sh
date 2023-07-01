@@ -7,4 +7,4 @@
 # do local things and commit 
 
 # push to remote
-
+  git push -u origin master
