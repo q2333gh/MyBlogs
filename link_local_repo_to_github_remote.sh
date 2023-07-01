@@ -8,3 +8,7 @@
 
 # push to remote
   git push -u origin master
+
+
+#some times need pull from remote:
+# git pull origin master
