@@ -11,4 +11,8 @@ means don\`t parse the symbol after the back slash
 exec parse means special symbol will render to 
 such as code-blocks or headers or etc...
 
+todo:
+
+
+pandoc --extract-media ./myMediaFolder CN.docx -o output.md
 
